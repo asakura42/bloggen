@@ -1,0 +1,5 @@
+figlet_font="standard"
+site_name="blog"
+site_title="title"
+mail="mail@example.org"
+usually_author="author"
